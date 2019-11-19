@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".detailMovie">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="350dp"
+        android:id="@+id/poster_detail"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/judul_detail"
+        android:layout_toEndOf="@+id/poster_detail"
+        android:layout_marginStart="27dp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dsc_detail"
+        android:layout_toEndOf="@+id/poster_detail"
+        android:layout_below="@+id/judul_detail"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tahun_detail"
+        android:layout_below="@+id/poster_detail"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pendapatan"
+        android:layout_below="@+id/tahun_detail"
+        />
+
+</RelativeLayout>

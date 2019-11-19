@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_pTeguh</string>
+
+
+    <string-array name="option">
+        <item>Kredit</item>
+        <item>Debit</item>
+    </string-array>
+</resources>

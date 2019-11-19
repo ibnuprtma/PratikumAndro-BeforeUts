@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2stapplication</string>
+    <string-array name="static_spinner">
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+        <item>Caffè Americano</item>
+        <item>Cafe Zorro</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cinema21</string>
+    <string name="nama_nama_movie">Nama Movie</string>
+    <string name="lorem">Lorem Ipsum</string>
+
+    <string-array name="movie_name">
+        <item>Charles</item>
+        <item>Docter Sleep</item>
+        <item>Ford and Ferrari</item>
+        <item>Frozen 2</item>
+        <item>Jojo Rabbit</item>
+        <item>Last Chrismas</item>
+        <item>Midway</item>
+    </string-array>
+
+
+    <string-array name="movie_description">
+        <item>When a systems engineer blows the whistle on a dangerous technology</item>
+        <item>A traumatized, alcoholic Dan Torrance meets Abra, a kid who also </item>
+        <item>Elsa, Anna, Kristoff and Olaf are going far in the </item>
+        <item>A World War II satire that follows a lonely German boy whose world </item>
+        <item>American car designer Carroll Shelby and the British-born driver </item>
+        <item>Kate is a young woman subscribed to bad decisions. Her last date </item>
+        <item>The story of the soldiers and aviators who helped turn </item>
+    </string-array>
+
+    <array name="movie_photo">
+        <item>@drawable/charles</item>
+        <item>@drawable/doctersleep</item>
+        <item>@drawable/fordnferrari</item>
+        <item>@drawable/frozen2</item>
+        <item>@drawable/jojorabbit</item>
+        <item>@drawable/lastchrismas</item>
+        <item>@drawable/midway</item>
+    </array>
+
+</resources>

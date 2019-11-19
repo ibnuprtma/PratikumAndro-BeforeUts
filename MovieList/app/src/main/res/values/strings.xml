@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">ListMovie</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="exp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias amet, at dolorem enim est eum illum inventore libero, porro possimus quas quod reprehenderit similique tempora temporibus ullam, veritatis voluptatem voluptatibus!</string>
+
+    <string-array name="judul_film">
+        <item>Age Of Ultron</item>
+        <item>Avengers</item>
+        <item>Black Panther</item>
+        <item>Captain Marvel</item>
+        <item>Civil War</item>
+        <item>Dark Phoniex</item>
+        <item>Deadpool 2</item>
+        <item>Endgame</item>
+        <item>Far From Home</item>
+        <item>Guardians of The Galaxy</item>
+        <item>Guardians of The Galaxy 2</item>
+        <item>Homecoming</item>
+        <item>Infinity War</item>
+        <item>Venom</item>
+        <item>Thor Raganarok</item>
+    </string-array>
+
+    <string-array name="pendapatan">
+        <item>$1,405,403,694.00</item>
+        <item>$2,797,800,564.00</item>
+        <item>$1,346,739,107.00</item>
+        <item>$1,128,274,794.00</item>
+        <item>$1,153,304,495.00</item>
+        <item>$245,000,000.00</item>
+        <item>$741,547,413.00</item>
+        <item>$2,797,800,564.00</item>
+        <item>$1,131,450,163.00</item>
+        <item>$773,328,629.00</item>
+        <item>$863,756,051.00</item>
+        <item>$773,328,629.00</item>
+        <item>$2,046,239,637.00</item>
+        <item>$855,013,954.00</item>
+        <item>$853,977,126.00</item>
+    </string-array>
+
+    <array name="poster_film">
+        <item>@drawable/age_of_ultron</item>
+        <item>@drawable/avengers</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/captain_marvel</item>
+        <item>@drawable/civil_war</item>
+        <item>@drawable/dark_phoniex</item>
+        <item>@drawable/deadpool2</item>
+        <item>@drawable/endgame</item>
+        <item>@drawable/far_from_home</item>
+        <item>@drawable/guardians_galaxy</item>
+        <item>@drawable/guardians_galaxy2</item>
+        <item>@drawable/homecoming</item>
+        <item>@drawable/infinity_war</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/thor_ragnarok</item>
+
+    </array>
+
+    <string-array name="tahun_pro">
+        <item>1 Mei 2015</item>
+        <item>24 April 2019</item>
+        <item>13 Februari 2018</item>
+        <item>6 Maret 2019</item>
+        <item>12 April 2016</item>
+        <item>7 Juni 2019</item>
+        <item>10 Mei 2018</item>
+        <item>26 April 2019</item>
+        <item>28 Juni 2019</item>
+        <item>18 Oktober 2019</item>
+        <item>30 Juli 2014</item>
+        <item>19 April 2017</item>
+        <item>25 April 2018</item>
+        <item>28 September 2018</item>
+        <item>25 Oktober 2017</item>
+    </string-array>
+
+
+
+    <string-array name="film_description">
+        <item>Ketika Tony Stark mencoba untuk memulai program pemeliharaan perdamaian yang tidak aktif, segala sesuatunya menjadi kacau dan Pahlawan-pahlawan Bumi yang paling termasyhur menjalani ujian pamungkas ketika nasib planet ini tergantung pada</item>
+        <item>Setelah peristiwa yang menghancurkan dari Avengers: Perang Infinity, alam semesta hancur karena upaya Titan Gila, Thanos. Dengan bantuan sekutu yang tersisa, Avengers harus berkumpul sekali lagi untuk membatalkan </item>
+        <item>Raja T\'Challa pulang dari Amerika ke negara Wakanda yang tertutup dan berteknologi maju untuk melayani sebagai pemimpin baru negaranya. Namun, T\'Challa segera menemukan bahwa ia ditantang untuk tahta</item>
+        <item>Kisah ini mengikuti Carol Danvers ketika dia menjadi salah satu pahlawan paling kuat di alam semesta ketika Bumi terperangkap di tengah perang galaksi antara dua ras alien. Terletak di tahun 1990-an, Kapten Marvel adalah</item>
+        <item>Menyusul peristiwa-peristiwa Zaman Ultron, pemerintah-pemerintah kolektif dunia meloloskan suatu tindakan yang dirancang untuk mengatur semua aktivitas manusia super. Ini mempolarisasi pendapat di antara para Avengers, menyebabkan dua faksi berada di samping</item>
+        <item>X-Men menghadapi musuh mereka yang paling tangguh dan kuat ketika salah satu dari mereka, Jean Gray, mulai lepas kendali. Selama misi penyelamatan di luar angkasa, Jean hampir terbunuh ketika dia ditabrak oleh misterius</item>
+        <item>Deadpool tentara bayaran penyihir bertempur melawan Cable jahat dan kuat dan orang jahat lainnya untuk menyelamatkan hidup anak laki-laki.</item>
+        <item>Setelah peristiwa yang menghancurkan dari Avengers: Perang Infinity, alam semesta hancur karena upaya Titan Gila, Thanos. Dengan bantuan sekutu yang tersisa, Avengers harus berkumpul sekali lagi untuk membatalkan</item>
+        <item>Peter Parker dan teman-temannya melakukan perjalanan musim panas ke Eropa. Namun, mereka hampir tidak dapat beristirahat - Peter harus setuju untuk membantu Nick Fury mengungkap misteri makhluk yang menyebabkan bencana alam dan</item>
+        <item>Tahun cahaya dari Bumi, 26 tahun setelah diculik, Peter Quill mendapati dirinya menjadi sasaran utama perburuan setelah menemukan bola yang diinginkan oleh Ronan si Penuduh.</item>
+        <item>The Guardians harus berjuang untuk menjaga keluarga mereka yang baru ditemukan bersama saat mereka mengungkap misteri keturunan asli Peter Quill.</item>
+        <item>Menyusul peristiwa Kapten Amerika: Perang Saudara, Peter Parker, dengan bantuan mentornya Tony Stark, mencoba menyeimbangkan hidupnya sebagai siswa sekolah menengah biasa di Queens, New York City, dengan memerangi kejahatan</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim keburukan intergalaksi</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom , seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi</item>
+        <item>Thor dipenjara di sisi lain alam semesta dan menemukan dirinya berpacu melawan waktu untuk kembali ke Asgard untuk menghentikan Ragnarok, penghancuran dunia tempat tinggalnya dan akhir dari peradaban Asgardian, di</item>
+    </string-array>
+
+</resources>
